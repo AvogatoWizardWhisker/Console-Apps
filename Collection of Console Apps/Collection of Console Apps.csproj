@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="CalculatorApp\" />
+    <Folder Include="Guess-It-Right\" />
+  </ItemGroup>
+
 </Project>
